@@ -1,4 +1,5 @@
 # object-detection-apd
+**Object detenction via webcam with javascript**
 
 ## Project setup
 ```
